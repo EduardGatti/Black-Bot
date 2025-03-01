@@ -12,7 +12,8 @@ O Black Bot é uma solução eficaz para moderar e garantir a segurança da sua 
 - **Adicionar o Bot**: Clique no botão "Me adicione!" na página inicial para adicionar o Black Bot à sua comunidade do Discord.   
 
 ## Imagens  
-- ![Logo Black Bot](blackBotLogoTeste.png)  
+- ![Logo Black Bot](blackBotLogoTeste.png)
+  
 - ![Logo Rodapé](footerLogo.png)  
 
 ## Contribuições  
