@@ -20,9 +20,6 @@ Contribuições são bem-vindas! Se você deseja ajudar no desenvolvimento do Bl
 
 ## Licença  
 Este projeto é de código aberto, sinta-se à vontade para utilizá-lo e modificá-lo conforme suas necessidades.
-
-## Link da Netlify
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f2578712-e49e-4296-8f86-0f3fb4c4779f/deploy-status)](https://app.netlify.com/sites/blackbot/deploys)
 ---  
 
 Sinta-se à vontade para ajustar as seções conforme necessário e adicionar mais informações se desejar! Se precisar de mais alguma coisa, é só avisar.
