@@ -9,13 +9,7 @@ O Black Bot é uma solução eficaz para moderar e garantir a segurança da sua 
 3. **Moderação Manual**: Os administradores têm acesso a um sistema que permite banimentos e aisos (silenciamentos) manuais, proporcionando controle total sobre a comunidade.  
 
 ## Como Usar  
-- **Adicionar o Bot**: Clique no botão "Me adicione!" na página inicial para adicionar o Black Bot à sua comunidade do Discord.  
-  
-## Links Úteis  
-- [Comunidade Gatti](#)  
-- [Tutorial](#)  
-- [Código Aberto](#)  
-- [Comandos](#)  
+- **Adicionar o Bot**: Clique no botão "Me adicione!" na página inicial para adicionar o Black Bot à sua comunidade do Discord.   
 
 ## Imagens  
 - ![Logo Black Bot](blackBotLogoTeste.png)  
@@ -25,8 +19,10 @@ O Black Bot é uma solução eficaz para moderar e garantir a segurança da sua 
 Contribuições são bem-vindas! Se você deseja ajudar no desenvolvimento do Black Bot, sinta-se à vontade para abrir uma issue ou enviar um pull request.  
 
 ## Licença  
-Este projeto é de código aberto, sinta-se à vontade para utilizá-lo e modificá-lo conforme suas necessidades.  
+Este projeto é de código aberto, sinta-se à vontade para utilizá-lo e modificá-lo conforme suas necessidades.
 
+## Link da Netlify
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2578712-e49e-4296-8f86-0f3fb4c4779f/deploy-status)](https://app.netlify.com/sites/blackbot/deploys)
 ---  
 
 Sinta-se à vontade para ajustar as seções conforme necessário e adicionar mais informações se desejar! Se precisar de mais alguma coisa, é só avisar.
