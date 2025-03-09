@@ -62,6 +62,3 @@ Este projeto é de código aberto e pode ser usado e modificado livremente.
 
 ---
 
-Agora o **README do site** está **totalmente alinhado com o Black Bot** e pronto para ser publicado! 🚀  
-
-Se precisar de **ajustes ou adicionar mais informações**, é só avisar. 😃
