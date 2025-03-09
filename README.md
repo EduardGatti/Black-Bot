@@ -61,4 +61,8 @@ O **Black Bot** é uma solução completa para **moderar, proteger e gerenciar**
 Este projeto é de código aberto e pode ser usado e modificado livremente.  
 
 ---
+## Static Site:
+![WebSite](https://black-bot-089d.onrender.com)
+
+---
 
