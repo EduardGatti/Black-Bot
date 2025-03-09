@@ -1,26 +1,67 @@
-# Black Bot - Moderação de Comunidade do Discord  
+# Black Bot - Moderação Avançada para Comunidades do Discord  
 
-## Descrição  
-O Black Bot é uma solução eficaz para moderar e garantir a segurança da sua comunidade no Discord de forma fácil e rápida. Este bot implementa uma série de funcionalidades que ajudam a manter a ordem e a segurança do seu servidor.  
+## 📌 Sobre o Black Bot  
+O **Black Bot** é uma solução completa para **moderar, proteger e gerenciar** comunidades no Discord. Com um sistema de **segurança avançado**, ele impede invasões de bots, bane usuários mal-intencionados e facilita a administração do servidor com comandos simples e eficazes.  
 
-## Funcionalidades  
-1. **Verificação CAPTCHA**: O bot cria um sistema de verificação CAPTCHA para novos membros, garantindo que apenas usuários humanos possam entrar na comunidade.  
-2. **Banimentos Automáticos**: O Black Bot possui um sistema de banimento automático que detecta e remove links suspeitos enviados na comunidade.  
-3. **Moderação Manual**: Os administradores têm acesso a um sistema que permite banimentos e aisos (silenciamentos) manuais, proporcionando controle total sobre a comunidade.  
+---
 
-## Como Usar  
-- **Adicionar o Bot**: Clique no botão "Me adicione!" na página inicial para adicionar o Black Bot à sua comunidade do Discord.   
+## 🎯 **Principais Funcionalidades**  
+1️⃣ **✅ Verificação CAPTCHA**  
+   - Novos membros devem **resolver um CAPTCHA** antes de entrar no servidor, garantindo que apenas humanos tenham acesso.  
 
-## Imagens  
-- ![Logo Black Bot](blackBotLogoTeste.png)
-  
-- ![Logo Rodapé](footerLogo.png)  
+2️⃣ **🚨 Banimentos Automáticos**  
+   - O bot detecta e **bani automaticamente** usuários que enviam **links suspeitos** ou **palavras proibidas**.  
 
-## Contribuições  
-Contribuições são bem-vindas! Se você deseja ajudar no desenvolvimento do Black Bot, sinta-se à vontade para abrir uma issue ou enviar um pull request.  
+3️⃣ **🔨 Comandos de Moderação**  
+   - Administradores podem **banir, expulsar, silenciar e gerenciar mensagens** rapidamente.  
 
-## Licença  
-Este projeto é de código aberto, sinta-se à vontade para utilizá-lo e modificá-lo conforme suas necessidades.
----  
+4️⃣ **🛠️ Sistema de Tickets**  
+   - Usuários podem abrir **chamados de suporte** diretamente no Discord, facilitando o atendimento da equipe administrativa.  
 
-Sinta-se à vontade para ajustar as seções conforme necessário e adicionar mais informações se desejar! Se precisar de mais alguma coisa, é só avisar.
+5️⃣ **🔍 Logs de Auditoria**  
+   - Todas as **ações importantes** (mensagens apagadas, bans, edição de mensagens, criação de canais, etc.) são **registradas automaticamente** no canal de logs.  
+
+---
+
+## 📌 **Como Adicionar o Black Bot ao Seu Servidor?**  
+1. **Clique no botão abaixo para adicionar o bot ao seu servidor:**  
+   - 🔗 [Adicionar o Black Bot](#)  
+
+2. **Dê permissões ao bot:**  
+   - ✅ Gerenciar Canais  
+   - ✅ Expulsar/Banir Membros  
+   - ✅ Ler e Escrever Mensagens  
+   - ✅ Administrar Mensagens  
+
+3. **Configure os canais necessários:**  
+   - `#logs` → Para auditoria das ações.  
+   - `#verifycaptcha` → Para verificação de novos membros.  
+   - `#welcome` → Para mensagens de boas-vindas.  
+   - `#tickets` → Para suporte aos membros.  
+
+4. **Agora é só usar os comandos!**  
+
+---
+
+## 📸 **Imagens & Demonstração**  
+- ![Logo Black Bot](blackBotLogoTeste.png)  
+- ![Interface do Bot](footerLogo.png)  
+
+---
+
+## 🛠 **Como Contribuir?**  
+1. **Fork** este repositório.  
+2. Crie uma **branch** para sua funcionalidade (`feature/nova-funcionalidade`).  
+3. Faça um **commit** (`git commit -m "Nova funcionalidade adicionada"`).  
+4. Envie um **Pull Request** para revisão.  
+
+---
+
+## ⚖️ **Licença**  
+Este projeto é de código aberto e pode ser usado e modificado livremente.  
+
+---
+
+Agora o **README do site** está **totalmente alinhado com o Black Bot** e pronto para ser publicado! 🚀  
+
+Se precisar de **ajustes ou adicionar mais informações**, é só avisar. 😃
