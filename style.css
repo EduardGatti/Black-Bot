@@ -6,7 +6,9 @@
     box-sizing: border-box;  
     text-decoration: none;  
 }  
-
+a{
+    color: white;
+}
 body {  
     font-size: 100%;  
     background: linear-gradient(58deg, #1a1a1a 16.18%, #1a1a1a 18%, #144668);
@@ -144,4 +146,17 @@ font-size: 18px;
     
     height: 70px;
 
+}
+
+.lista-comandos {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.lista-comandos li {
+    font-family: "Sarala", sans-serif;
+    font-size: 18px;
+    color: #ECD6C4;
+    padding: 5px;
 }

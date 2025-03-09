@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+
+/* 🔹 Corpo da página */
+body {
+    font-size: 100%;
+    background: linear-gradient(58deg, #1a1a1a 16.18%, #1a1a1a 18%, #144668);
+    color: #ECD6C4;
+    font-family: "Sarala", sans-serif;
+    line-height: 1.8;
+}
+
+/* 🔹 Cabeçalho */
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    height: 120px;
+    border-bottom: 2px solid white;
+    
+
+}
+.cabecalho-imagem{
+
+    height: 150px;
+    padding: 0px;
+
+}
+.cabecalho-menu{
+    display: flex;
+    gap: 32px;
+
+}
+.cabecalho-menu-item{
+
+font-family: "Sarala", sans-serif;
+color: #FFF2EF;
+font-weight: 400;
+font-size: 18px;
+
+}
+
+/* 🔹 Conteúdo Principal */
+.conteudo {
+    padding: 50px 10%;
+    text-align: center;
+}
+
+/* 🔹 Título Principal */
+.conteudo-principal-escrito-titulo {
+    font-family: "Righteous", cursive;
+    font-size: 48px;
+    color: #ECD6C4;
+    margin-bottom: 20px;
+}
+
+.conteudo-principal-escrito-subtitulo {
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+
+/* 🔹 Seção de comandos */
+.conteudo-segundario {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    text-align: left;
+}
+
+/* 🔹 Títulos das categorias */
+.conteudo-segundario-titulo {
+    font-size: 26px;
+    font-family: "Righteous", cursive;
+    color: #ECD6C4;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ECD6C4;
+    padding-bottom: 5px;
+}
+
+/* 🔹 Lista de comandos */
+.lista-comandos {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.lista-comandos li {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 8px;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* 🔹 Botões */
+.conteudo-principal-escrito-botao {
+    display: block;
+    width: 250px;
+    height: 55px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: #1575b4;
+    color: #FFF2EF;
+    box-shadow: 4px 5px 5px rgba(0, 0, 0, 0.25);
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.conteudo-principal-escrito-botao a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    line-height: 55px;
+}
+
+.conteudo-principal-escrito-botao:hover {
+    background-color: #224963;
+}
+
+/* 🔹 Rodapé */
+.rodape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    border-top: 2px solid #ECD6C4;
+    margin-top: 60px;
+}
+
+.rodape-imagem {
+    height: 80px;
+}
